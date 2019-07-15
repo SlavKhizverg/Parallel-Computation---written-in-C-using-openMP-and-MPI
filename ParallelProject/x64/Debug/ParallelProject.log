@@ -1,0 +1,107 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\afeka\Desktop\ParallelProject\ParallelProject>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2015 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64"  -I"C:\Program Files\MPICH2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\afeka\Desktop\ParallelProject\ParallelProject\kernel.cu" 
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(411): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(411): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(411): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1473): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1473): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1473): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1906): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1906): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1906): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(409): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(410): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(411): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(411): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(411): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1471): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1472): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1473): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1473): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1473): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1904): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1905): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1906): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1906): warning : expression has no effect
+c:\program files\mpich2\include\mpicxx.h(1906): warning : expression has no effect
+CUDACOMPILE : nvcc warning : The 'compute_20', 'sm_20', and 'sm_21' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+  kernel.cu
+  Source.cpp
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(28): warning C4101: 'status': unreferenced local variable
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(267): warning C4101: 'diameter': unreferenced local variable
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(267): warning C4101: 'distance': unreferenced local variable
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(331): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(332): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(333): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(334): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(335): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(336): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(351): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  ParallelProject.vcxproj -> C:\Users\afeka\Desktop\ParallelProject\x64\Debug\ParallelProject.exe
+  ParallelProject.vcxproj -> C:\Users\afeka\Desktop\ParallelProject\x64\Debug\ParallelProject.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\afeka\Desktop\ParallelProject\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.

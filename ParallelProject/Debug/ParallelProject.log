@@ -1,0 +1,43 @@
+﻿  Source.cpp
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(174): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(185): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(187): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(189): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(191): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(193): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(195): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(198): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 5 has type 'double'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(198): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(198): note: placeholders and their parameters expect 6 variadic arguments, but 5 were provided
+  c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(198): note: the missing variadic argument 6 is required by format string '%.2lf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(205): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(206): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(207): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(208): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(215): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(215): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(215): note: placeholders and their parameters expect 5 variadic arguments, but 4 were provided
+  c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(215): note: the missing variadic argument 5 is required by format string '%.2lf'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(257): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(237): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\afeka\desktop\parallelproject\parallelproject\source.cpp(14): warning C4700: uninitialized local variable 'clusters' used
+  ParallelProject.vcxproj -> C:\Users\afeka\Desktop\ParallelProject\Debug\ParallelProject.exe
+  ParallelProject.vcxproj -> C:\Users\afeka\Desktop\ParallelProject\Debug\ParallelProject.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\afeka\Desktop\ParallelProject\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
